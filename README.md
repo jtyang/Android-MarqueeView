@@ -1,3 +1,4 @@
+支持跑马灯效果的View容器项目
 Android-MarqueeView
 ===================
 
